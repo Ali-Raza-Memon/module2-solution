@@ -1,0 +1,24 @@
+body{
+    font-size: 10px;
+    padding: 1rem;
+}
+h1{  
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+
+.boxes{
+
+   
+    width: 200px;
+    height: 150px;
+    background-color: yellow;
+    padding: 10px;
+
+}
+
+.container .box .little{
+    color: blue;
+}
